@@ -225,7 +225,7 @@ l Organizers
 
   ·  Chenguang Yang
 
-## Oct 20th (PM) — Robot Learning From Human Teleoperation: Prospects and Challenges
+## Oct 20th (PM) — Robot Learning From Human Teleoperation: Prospects and Challenges ( Martín-Martín, Roberto)
 
 
 l Venue
