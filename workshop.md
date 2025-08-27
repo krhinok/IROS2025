@@ -256,7 +256,7 @@ l Organizers
 
   ·  Lorenzo Jamone
 
-## Oct 20th (PM) — 4th Workshop on Mobile Manipulation and Embodied Intelligence: Towards Next-Gen Mobile Manipulation with Modularity, Reconfiguration, and Generalization (MOMA.v4)
+## Oct 20th (PM) — 4th Workshop on Mobile Manipulation and Embodied Intelligence: Towards Next-Gen Mobile Manipulation with Modularity, Reconfiguration, and Generalization (MOMA.v4) (Roberto Martin-Martin)
 
 
 l Venue
