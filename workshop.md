@@ -81,3 +81,35 @@ l Organizers
   ·  Alessio Xompero
 
   ·  Changjae Oh
+
+
+## Oct 20th (PM) — Robotic Fine Manipulation: Integrating Tactile, Visual, and Intelligent Control
+
+
+l Venue
+
+311B
+
+
+
+l Website
+
+https://robofinemani.github.io/
+
+
+
+l Keyword
+
+Manipulation (teleoperation)
+
+
+
+l Organizers
+
+  ·  Xiu-Shen Wei* 
+
+  ·  Wei Zhang
+
+  ·  Zhibin (Alex) Li
+
+  ·  Heyang Xu
