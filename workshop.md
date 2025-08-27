@@ -1,3 +1,38 @@
+# Oct 20th (Full Day) — Building Safe Robots: A Holistic Integrated View on Safety from Modelling, Control & Implementation
+
+
+l Venue
+
+210B
+
+
+
+l Website
+
+https://building-safe-robots-workshop.github.io/
+
+
+
+l Keyword
+
+Safety in HRI; Human-Centered Robotics; Planning,
+
+
+
+l Organizers
+
+  ·  Luis Figueredo* 
+
+  ·  Robin Jeanne Kirschner
+
+  ·  Nader Rajaei
+
+  ·  Lipeng Chen
+
+  ·  Mazin Hamad
+
+  ·  Achim J. Lilienthal
+
 ## Oct 20th (AM) — Perception and Planning for Mobile Manipulation in Changing Environments
 
 Venue 309
