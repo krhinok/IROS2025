@@ -15,3 +15,32 @@ Organizers
 - Liam Paull
 - Jia Zeng
 - Saray Bakker
+
+## Oct 20th (AM) — Frontiers in Dynamic, Intelligent, and Adaptive Multi-Arm Manipulation
+
+
+Venue 103B
+
+Website
+
+https://www.iit.it/web/hrii/iros2025-workshop-multi-arm
+
+Keyword
+
+Dual Arm Manipulation; Whole-Body Motion Planning and Control; Multi-Robot Systems
+
+Organizers
+
+  ·  Kuanqi Cai* 
+
+  ·  Luis Figueredo
+
+  ·  Marta Lagomarsino
+
+  ·  Riddhiman Laha
+
+  ·  Qiyi Tong
+
+  ·  Aude Billard
+
+  ·  Arash Ajoudani
