@@ -113,3 +113,36 @@ l Organizers
   ·  Zhibin (Alex) Li
 
   ·  Heyang Xu
+
+## Oct 20th (PM) — Intelligent Robotics: Harnessing Embodied Intelligence and Learning for Next-Generation Manipulation
+
+
+l Venue
+
+103B
+
+
+
+l Website
+
+
+
+
+
+l Keyword
+
+Manipulation (teleoperation)
+
+
+
+l Organizers
+
+  ·  Weiyong Si* 
+
+  ·  Kunpeng Yao
+
+  ·  Miao Li
+
+  ·  Elena De Momi
+
+  ·  Chenguang Yang
