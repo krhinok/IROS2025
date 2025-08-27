@@ -44,3 +44,40 @@ Organizers
   ·  Aude Billard
 
   ·  Arash Ajoudani
+
+## Oct 20th (AM) — Benchmarking via Competitions in Robotic Grasping and Manipulation – 2nd edition
+
+
+l Venue
+
+311A
+
+
+
+l Website
+
+https://sites.google.com/view/iros2025-bench-competitions/
+
+
+
+l Keyword
+
+Performance Evaluation and Benchmarking; Grasping; Deep Learning in Grasping and Manipulation
+
+
+
+l Organizers
+
+  ·  Salvatore D'Avella* 
+
+  ·  Yu Sun
+
+  ·  Berk Calli
+
+  ·  Kaiyu Hang
+
+  ·  Andrea Cavallaro
+
+  ·  Alessio Xompero
+
+  ·  Changjae Oh
