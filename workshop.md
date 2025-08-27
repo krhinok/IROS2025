@@ -118,7 +118,7 @@ l Organizers
   ·  Changjae Oh
 
 
-## Oct 20th (PM) — Robotic Fine Manipulation: Integrating Tactile, Visual, and Intelligent Control
+## Oct 20th (PM) — Robotic Fine Manipulation: Integrating Tactile, Visual, and Intelligent Control (Yong Liu, Qi Dou)
 
 
 l Venue
