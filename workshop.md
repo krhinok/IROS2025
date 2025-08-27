@@ -1,4 +1,4 @@
-# Oct 20th (Full Day) — Building Safe Robots: A Holistic Integrated View on Safety from Modelling, Control & Implementation
+# Oct 20th (Full Day) — Building Safe Robots: A Holistic Integrated View on Safety from Modelling, Control & Implementation (Xiong Rong)
 
 
 l Venue
